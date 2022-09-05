@@ -119,4 +119,12 @@ const collection = [
     value: 8500,
     isNotBelong: false,
   },
+  {
+    id: 16,
+    model: "Fender Stratocaster Master Build Jason Smith",
+    desc: "lorem ipsum",
+    img: "./img/guitar16.png",
+    value: 92000,
+    isNotBelong: false,
+  },
 ];
