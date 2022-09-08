@@ -1,7 +1,8 @@
 const collection = [
   {
     id: 1,
-    model: "Jack & Danny D160S",
+    brand: "Jack & Danny",
+    model: "D160S",
     desc: "lorem ipsum",
     img: "./img/guitar1.png",
     value: 7800,
@@ -9,7 +10,8 @@ const collection = [
   },
   {
     id: 2,
-    model: "Paramount F-550BCEQN",
+    brand: "Paramount",
+    model: "F-550BCEQN",
     desc: "lorem ipsum",
     img: "./img/guitar2.png",
     value: 3100,
@@ -17,7 +19,8 @@ const collection = [
   },
   {
     id: 3,
-    model: "Mclorence MC138",
+    brand: "Mclorence",
+    model: "MC138",
     desc: "lorem ipsum",
     img: "./img/guitar3.png",
     value: 4000,
@@ -25,7 +28,8 @@ const collection = [
   },
   {
     id: 4,
-    model: "Ephiphone Special II",
+    brand: "Ephiphone",
+    model: "Special II",
     desc: "lorem ipsum",
     img: "./img/guitar4.png",
     value: 6300,
@@ -33,7 +37,8 @@ const collection = [
   },
   {
     id: 5,
-    model: "Future SG-45",
+    brand: "Future",
+    model: "SG-45",
     desc: "lorem ipsum",
     img: "./img/guitar5.png",
     value: 7000,
@@ -41,7 +46,8 @@ const collection = [
   },
   {
     id: 6,
-    model: "Gibson Les Paul Standard '50s",
+    brand: "Gibson",
+    model: "Les Paul Standard '50s",
     desc: "lorem ipsum",
     img: "./img/guitar6.png",
     value: 85000,
@@ -49,7 +55,8 @@ const collection = [
   },
   {
     id: 7,
-    model: "Fender Stratocaster American Original '50s",
+    brand: "Fender",
+    model: "Stratocaster American Original '50s",
     desc: "lorem ipsum",
     img: "./img/guitar7.png",
     value: 72000,
@@ -57,7 +64,8 @@ const collection = [
   },
   {
     id: 8,
-    model: "Maison LP38",
+    brand: "Maison",
+    model: "LP38",
     desc: "lorem ipsum",
     img: "./img/guitar8.png",
     value: 12000,
@@ -65,7 +73,8 @@ const collection = [
   },
   {
     id: 9,
-    model: "Gibson Les Paul Gothic Morte",
+    brand: "Gibson",
+    model: "Les Paul Gothic Morte",
     desc: "lorem ipsum",
     img: "./img/guitar9.png",
     value: 40000,
@@ -73,7 +82,8 @@ const collection = [
   },
   {
     id: 10,
-    model: 'Fender Telecaster "3xbun" Signature',
+    brand: "Fender",
+    model: 'Telecaster "3xbun" Signature',
     desc: "lorem ipsum",
     img: "./img/guitar10.png",
     value: 80000,
@@ -81,7 +91,8 @@ const collection = [
   },
   {
     id: 11,
-    model: 'Fender Telecaster "Jim Root" Signature',
+    brand: "Fender",
+    model: 'Telecaster "Jim Root" Signature',
     desc: "lorem ipsum",
     img: "./img/guitar11.png",
     value: 47000,
@@ -89,7 +100,8 @@ const collection = [
   },
   {
     id: 12,
-    model: 'Gibson SG 2013 "The Great Wave"',
+    brand: "Gibson",
+    model: 'SG 2013 "The Great Wave"',
     desc: "lorem ipsum",
     img: "./img/guitar12.png",
     value: 24000,
@@ -97,7 +109,8 @@ const collection = [
   },
   {
     id: 13,
-    model: 'Paramount Flying V "Ouija Board"',
+    brand: "Paramount",
+    model: 'Flying V "Ouija Board"',
     desc: "lorem ipsum",
     img: "./img/guitar13.png",
     value: 8000,
@@ -105,7 +118,8 @@ const collection = [
   },
   {
     id: 14,
-    model: "Gibson Les Paul Signature T Gold Series",
+    brand: "Gibson",
+    model: "Les Paul Signature T Gold Series",
     desc: "lorem ipsum",
     img: "./img/guitar14.png",
     value: 58000,
@@ -113,7 +127,8 @@ const collection = [
   },
   {
     id: 15,
-    model: "Spear RD-W",
+    brand: "Spear",
+    model: "RD-W",
     desc: "lorem ipsum",
     img: "./img/guitar15.png",
     value: 8500,
@@ -121,7 +136,8 @@ const collection = [
   },
   {
     id: 16,
-    model: "Fender Stratocaster Master Build Jason Smith",
+    brand: "Fender",
+    model: "Stratocaster Master Build Jason Smith",
     desc: "lorem ipsum",
     img: "./img/guitar16.png",
     value: 92000,
